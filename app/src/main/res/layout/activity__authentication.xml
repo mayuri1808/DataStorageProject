@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".package_notification.Activity_Authentication">
+    <EditText
+        android:id="@+id/loginEmail"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle_shape"
+        android:hint="Enter Email"></EditText>
+    <EditText
+        android:id="@+id/loginPassword"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/rectangle_shape"
+        android:layout_height="wrap_content"
+        android:hint="Enter Password"></EditText>
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:background="@color/colorAccent"
+        android:layout_height="wrap_content"
+        android:hint="Login"
+        android:textSize="30sp"></Button>
+    <ProgressBar
+        android:id="@+id/loginprogressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"></ProgressBar>
+
+</LinearLayout>

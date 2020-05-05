@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17439394650",
+    "firebase_url": "https://datastorageproject-86791.firebaseio.com",
+    "project_id": "datastorageproject-86791",
+    "storage_bucket": "datastorageproject-86791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17439394650:android:2e5f2da35c76e9850c4163",
+        "android_client_info": {
+          "package_name": "com.example.datastorageproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17439394650-kb2jnqnrco9s1om3p11vttga8s2s8lma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datastorageproject",
+            "certificate_hash": "6beb15031639994a9f60d9675549d955017f84d8"
+          }
+        },
+        {
+          "client_id": "17439394650-j7r3bs9ebmoob599patdtbgaa2sp430h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIHG9yccpBKnfRogGJjJi-KBv7n1wENCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17439394650-j7r3bs9ebmoob599patdtbgaa2sp430h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
